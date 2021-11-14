@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 noooooo
+=======
+kjgljh
+>>>>>>> a511724b76cc888a81185d1912d4d48602cd796d
